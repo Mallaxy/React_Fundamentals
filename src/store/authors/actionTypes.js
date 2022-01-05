@@ -1,0 +1,2 @@
+export const SET_AUTHORS = 'AUTHORS/SET_AUTHORS';
+export const ADD_AUTHOR = 'AUTHORS/ADD_AUTHOR';

@@ -1,0 +1,1 @@
+export { checkIsAuthRoute } from './isAuthRoute';
